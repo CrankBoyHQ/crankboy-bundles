@@ -1,0 +1,14 @@
+{
+    "Bundles": {
+        "Legend of Zelda, The - Link's Awakening": "bundles/zelda_la",
+        "Legend of Zelda, The - Link's Awakening DX": "bundles/zelda_la",
+        "Metroid II - Return of Samus": "bundles/met2",
+        "Metroid 2": "bundles/met2",
+        "Kirby's Dream Land": "bundles/kirby_dl",
+        "Hoshi no Kirby": "bundles/kirby_dl",
+        "Castlevania II - Belmont's Revenge": "bundles/cv2",
+        "Dracula Densetsu II": "bundles/cv2",
+        "Pokémon Brown": "bundles/cv2",
+        "Pokémon Brown: 20th Anniversary Edition": "bundles/pokemon_brown",
+    }
+}
